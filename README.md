@@ -34,7 +34,7 @@ Logistics forms the foundation of many businesses, yet delays, inefficiencies, a
 
 ---
 ## Entity Relationship Diagram (ERD)
-![ERD Diagram](images/Erddiagram.png)
+![ERD Diagram](images/Erd%20diagram.png)
 
 ---
 
@@ -56,14 +56,14 @@ Logistics forms the foundation of many businesses, yet delays, inefficiencies, a
 
 ## Data Visualization Dashboard Preview
 
-![Dashboard Page 1](images/page1.png)
+![Dashboard Page 1](images/Page%201.png)
 
 - **Page 1: Overview of Shipment Status**  
   - Completed shipments: 16.74K (+25% YoY), $11.32M value.  
   - In progress shipments: 47.46K (+25% YoY).  
-  - Average delivery time: 9.7 days.  
+  - Average delivery time: 10 days.  
 
-![Dashboard Page 2](images/page2.png)
+![Dashboard Page 2](images/Page%202.png)
 
 - **Page 2: Shipment Forecasting by Mode**  
   - Jets: 11,775 shipments (4,002 high priority).  
@@ -72,10 +72,9 @@ Logistics forms the foundation of many businesses, yet delays, inefficiencies, a
   - Motorbike: 12,224 shipments (4,443 medium priority).  
   - Regional breakdown highlights Lagos, Abuja, Port Harcourt, Accra.  
 
-![Dashboard Page 3](images/page3.png)
+![Dashboard Page 3](images/Page%203.png)
 
 - **Page 3: Customer Experience & Delivery Metrics**  
-  - Business customers: 35.99%, Retail: 32.85%, International: 31.16%.  
   - Satisfaction tracked (Very Satisfied, Neutral, Unsatisfied).  
   - Payment status linked to satisfaction (Paid, Pending, Overdue).  
 
