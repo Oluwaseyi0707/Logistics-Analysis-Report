@@ -121,7 +121,7 @@ Break down shipment volumes and performance by transport mode.
 
 ### Page 3: Customer Experience & Delivery Metrics 
 ### Purpose
-Track satisfaction level (Very Satisfied, Neutral, Unsatisfied e.t.c).  
+Track satisfaction level (Very Satisfied, Neutral, Unsatisfied, Dissatisfied).  
 ### Key Insights
 - **Customer Type Breakdown**
   - Business customers: **35.99%** of completed shipments.
